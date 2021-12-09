@@ -1,0 +1,22 @@
+
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liub000v/week4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liub000v/week4"
+  },
+  "homepage": "https://github.com/Liub000v/week4"
+}
